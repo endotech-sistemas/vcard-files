@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Silveira;Pedro;;;
+FN:Pedro Simon Silveira
+ORG:Endotech Produtos Medicos
+TITLE:Gerente de Produtos
+TEL;TYPE=CELL;TYPE=PREF;TYPE=VOICE:+5548992120562
+EMAIL;TYPE=PREF:pedro@endotech.com.br
+URL:https://endotech.com.br/
+END:VCARD
